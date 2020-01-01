@@ -1,11 +1,11 @@
 # Fibonaacci Algorithm
 
-## 1 | Scope
+## 1. Scope
 
 Does Fibonacci using a recursive function. 
 
 
-## 2 | Description
+## 2. Description
 
 Fibonacci adds a new item by taking the sum of the previous 2 items. 
 
