@@ -31,7 +31,7 @@ This sequence is done with a recursive algorithm. If the size hasn't reached the
 def fibonacci(_sequence, _size):
     if _size - 2 > 0:
         _size -= 1
-        _sequence.append(_sequence[-1] + _sequence[-2])
+        _sequence.append(sum(_sequence[-2:]))
         fibonacci(_sequence, _size)
     return _sequence
 ```
