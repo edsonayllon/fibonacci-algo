@@ -27,7 +27,7 @@ Fibonacci numbers are used in several other algorithms, including, but not limit
 
 ## 3. Algorithm
 
-Fibonacci adds a new item by taking the sum of the previous 2 items. 
+Fibonacci adds a new item by taking the sum of the previous 2 items [1]. 
 
 ![fibonacci](https://latex.codecogs.com/gif.latex?F_n%20%3D%20F_%7Bn-1%7D%20&plus;%20F_%7Bn-2%7D)
 
@@ -55,3 +55,7 @@ def fibonacci(_sequence, _size):
         fibonacci(_sequence, _size)
     return _sequence
 ```
+
+## References
+
+[1] http://mathworld.wolfram.com/FibonacciNumber.html
