@@ -2,7 +2,7 @@
 author: Edson Ayllon
 category: algorithm
 tags: 
-- math
+- mathematics
 - sequence
 twitter: https://twitter.com/relativeread
 ---
@@ -15,8 +15,17 @@ twitter: https://twitter.com/relativeread
 
 Does Fibonacci using a recursive function. 
 
+## 2. Significance & Use
 
-## 2. Description
+Fibonacci numbers are used in several other algorithms, including, but not limited to:
+- Scrum Poker: gamified effort estimates for development goals in software development
+- Psuedorandom Number Generation
+- Computational run-time analysis of Euclid's algorithm
+- Fibonacci coding
+- Polyphase version of the merge sort algorithm 
+- Fibonacci retracement in technical analysis
+
+## 3. Algorithm
 
 Fibonacci adds a new item by taking the sum of the previous 2 items. 
 
