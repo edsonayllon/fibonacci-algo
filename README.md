@@ -25,7 +25,7 @@ Fibonacci numbers are used in several other algorithms, including, but not limit
 - Polyphase version of the merge sort algorithm 
 - Fibonacci retracement in technical analysis
 
-## 3. Algorithm
+## 3. Algorithm & Code
 
 Fibonacci adds a new item by taking the sum of the previous 2 items [1]. 
 
