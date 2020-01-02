@@ -1,3 +1,14 @@
+---
+author: Edson Ayllon
+category: algorithm
+tags: 
+- math
+- sequence
+twitter: https://twitter.com/relativeread
+---
+
+## Algo 1-2019
+
 # Fibonaacci Algorithm
 
 ## 1. Scope
