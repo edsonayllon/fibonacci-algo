@@ -7,7 +7,7 @@ tags:
 twitter: https://twitter.com/relativeread
 ---
 
-## Algo 1-2019
+## Algo 1-2020
 
 # Fibonaacci Algorithm
 
